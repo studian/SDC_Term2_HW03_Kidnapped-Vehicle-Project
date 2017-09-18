@@ -1,7 +1,7 @@
 # Particle Filter Project
 
 <p align="center">
-    <img src="./image/particlefilter.gif" width="480" alt="main_image" /><br>
+    <img src="./particlefilter.gif" width="480" alt="main_image" /><br>
     <b>result</b><br>
 </p>
 
